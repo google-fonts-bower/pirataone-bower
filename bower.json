@@ -1,0 +1,17 @@
+{
+    "name": "pirataone-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Multiple Designers"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/pirataone-bower.git"
+    },
+    "description": "Pirata One font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
